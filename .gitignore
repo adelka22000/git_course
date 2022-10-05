@@ -1,0 +1,5 @@
+kakish.txt
+/pip
+*.jpg
+/12/*
+!/12/*.txt
